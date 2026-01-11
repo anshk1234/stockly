@@ -1,7 +1,7 @@
 # stockly
 Deployed app link- https://live-stock-market-dashboard.streamlit.app/
 
-##1. see live prices of companies stock 
+#1. see live prices of companies stock 
 <img width="1366" height="768" alt="Screenshot (632)" src="https://github.com/user-attachments/assets/3298f93a-3d80-4404-850a-937031177ccd" />
 
 comapare companies over time
